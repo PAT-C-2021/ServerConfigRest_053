@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigRest_20190140053_YogaAditya", "ServerConfigRest_20190140053_YogaAditya\ServerConfigRest_20190140053_YogaAditya.csproj", "{5B5E5C95-8168-420B-8117-C3727F6CB662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5E5C95-8168-420B-8117-C3727F6CB662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5E5C95-8168-420B-8117-C3727F6CB662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5E5C95-8168-420B-8117-C3727F6CB662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5E5C95-8168-420B-8117-C3727F6CB662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B66DC1-EE67-402B-A48A-FAFB9F15DEB9}
+	EndGlobalSection
+EndGlobal
